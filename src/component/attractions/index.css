@@ -1,0 +1,9 @@
+.attraction__list {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.list__item {
+    color: #000;
+}
